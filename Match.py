@@ -1,4 +1,3 @@
-
 '''It was in the 1997-98 season that Ranchi saw the rise of the Captain Cool in the interschool trophy between DAV Jawahar Vidhya Mandir and Kendriya School. It was in that match Dhoni convinced Banerjee to be the opener and justified it with a double century.
 Write a program to display the details of the match with Team name, Scores of the team and Overs played.
 Input and Output Format:  
@@ -30,20 +29,20 @@ Score: 110
 Overs played: 18'''
 
 Ans:
-    print("Team 1:")
-    team1_name = input("Team Name:\n")
-    team1_score = input("Score:\n")
-    team1_overs = input("Overs played:\n")
-    print("Team 2:")
-    team2_name = input("Team name:\n")
-    team2_score = input("Score:\n")
-    team2_overs = input("Overs played:\n")
-    print("Match Details:")
-    print(f"Team 1:")
-    print(f"Name: {team1_name}")
-    print(f"Score: {team1_score}")
-    print(f"Overs played: {team1_overs}")
-    print(f"Team 2:")
-    print(f"Name: {team2_name}")
-    print(f"Score: {team2_score}")
-    print(f"Overs played: {team2_overs}")
+print("Team 1:")
+team1_name = input("Team Name:\n")
+team1_score = input("Score:\n")
+team1_overs = input("Overs played:\n")
+print("Team 2:")
+team2_name = input("Team name:\n")
+team2_score = input("Score:\n")
+team2_overs = input("Overs played:\n")
+print("Match Details:")
+print(f"Team 1:")
+print(f"Name: {team1_name}")
+print(f"Score: {team1_score}")
+print(f"Overs played: {team1_overs}")
+print(f"Team 2:")
+print(f"Name: {team2_name}")
+print(f"Score: {team2_score}")
+print(f"Overs played: {team2_overs}")
