@@ -58,7 +58,7 @@ Name:  Kendriya School
 Score: 110
 Overs played: 18'''
 
-def main():
+Ans:
     print("Team 1:")
     team1_name = input("Team Name:\n")
     team1_score = input("Score:\n")
@@ -76,8 +76,6 @@ def main():
     print(f"Name: {team2_name}")
     print(f"Score: {team2_score}")
     print(f"Overs played: {team2_overs}")
-if __name__ == "__main__":
-    main()
 
 
 
